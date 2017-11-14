@@ -1,0 +1,30 @@
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+c:\users\marcin\documents\visual studio 2017\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Notatnik.g.cs
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Notatnik.baml
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Marcin\Dysk Google\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
